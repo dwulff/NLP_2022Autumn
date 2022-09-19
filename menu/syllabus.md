@@ -24,4 +24,4 @@ The course is graded as PASS/FAIL. Students can receive a PASS if they fulfill t
 See <a href="materials">Schedule & Materials</a>
 
 ## Venue
-<a href="menu/zoom">Zoom</a>
+Seminar room 11, Tuesdays, 2.15 - 3.45 pm
