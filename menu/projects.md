@@ -25,32 +25,40 @@ I will create individual channels for each group and invite you join them at a l
     <td ><b>What</b></td>
   </tr>
   <tr>
-    <td >28.09.</td>
+    <td >27.09.</td>
     <td>Building groups</td>
   </tr>
   <tr>
-    <td >28.09. - 02.11.</td>
-    <td>Find 2 project ideas and corresponding datasets and prepare project pitches</td>
+    <td >27.09. - 25.10.</td>
+    <td>Find 2 project ideas and corresponding datasets and prepare written project proposals</td>
   </tr>
   <tr>
-    <td >02.11.</td>
+    <td >25.10.</td>
+    <td>Submit written project proposals.</td>
+  </tr>
+  <tr>
+    <td >25.10. - 01.11</td>
+    <td>Receive feedback on proposals and prepare project pitches.</td>
+  </tr>
+  <tr>
+    <td >01.11.</td>
     <td>Pitch project proposals.</td>
   </tr>
   <tr>
-    <td >02.10. - 23.11.</td>
+    <td >01.11. - 22.11.</td>
     <td>Project work and support meetings.</td>
   </tr>
   <tr>
-    <td >23.11.</td>
+    <td >22.11.</td>
     <td>In-class markdown presentations.</td>
   </tr>
   <tr>
-    <td >23.11. - 14.12.</td>
+    <td >22.11. - 13.12.</td>
     <td>Finalize project and presentation. Support meeting.</td>
   </tr>
   <tr>
-    <td >14.12.</td>
-    <td>Deliver final presentation. Maximum 10 minutes. </td>
+    <td >13.12.</td>
+    <td>Deliver final presentation.</td>
   </tr>
 </table>
 
@@ -73,11 +81,15 @@ Subtitles: <a href="https://www.opensubtitles.org/de">Opensubtitles</a>
 
 ## Support meetings
 
-Each group must participate in least two 45 minute support meetings, one prior the markdown presentation and one prior the final presentation. Support meetings take place during the regular seminar slot, with two support meetings scheduled per slot. Support meetings will be scheduled on November 2 and November 23, respectively. If necessary, each group can request one additional 45 minute support meeting in one of two project work blocks. Given the limited time available the group should prepare a set of concrete questions, which should be submitted at least 24h prior to the support meeting.    
+Each group must participate in least two 30 minute support meetings, one prior the markdown presentation and one prior the final presentation. Support meetings take place during the regular seminar slot and will be held over Zoom. Support meetings will be scheduled on November 1 and November 22, respectively. To be able to use the limited time in an efficient groups prepare a list of concrete questions that they submit at least 24h prior to the support meeting. Every support meeting will begin with a short version of the project pitch briefly stating the question, motivation, and analysis plan of the project.       
+
+## Written project proposals
+
+The written project proposals should be 100 to 200 words long and outline the research question, the motivation behind the research question, and a possible data analytic approach. 
 
 ## Presentations
 
-During the course, each group will give four presentations, two project pitches, one markdown presentation, and one final presentation. These presentations serve two important purposes. First, they will help you advance and track the progression of your project and invite helpful feedback from other seminar participants. Second, they provide valuable opportunities for practicing the communication of data analytic projects in various formats. The maxim for these presentations is to tell good stories that inform and entertain the audience. Some helpful advice can be found <a href="http://www.podiumwisdom.com/blog/2015/11/15/4-tips-best-science-communicators"><b>here</b></a>.
+Each group will give three presentations, two project pitches, one markdown presentation, and one final presentation. These presentations serve three important purposes. They will help you track the progress of your project, generate useful helpful feedback from other seminar participants, and provide valuable opportunities for practicing the communication of data analytic projects. The goal in each of these presentations is to tell good stories that both inform and entertain the audience. Helpful advice can be found <a href="http://www.podiumwisdom.com/blog/2015/11/15/4-tips-best-science-communicators"><b>here</b></a>.
 
 <table cellspacing="0" cellpadding="0">
   <col width="20%">
@@ -96,7 +108,7 @@ During the course, each group will give four presentations, two project pitches,
   <tr>
     <td style="padding:4px">Markdown presentation</td>
     <td style="padding:4px">10 minutes, no slides, just a knitted markdown</td>
-    <td style="padding:4px">Briefly introduce and motivate question, then show, using your knitted markdown document, your progress in addressing the question and discuss outstanding issues.</td>
+    <td style="padding:4px">Briefly introduce and motivate question, then show, using your knitted markdown document, your progress on addressing the question and discuss outstanding issues.</td>
   </tr>
   <tr>
     <td style="padding:4px">Final presentation</td>
