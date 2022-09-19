@@ -17,8 +17,6 @@ e {
 
 - Presentation: <a href="https://dwulff.github.io/NLP_2021Autumn/assets/key/Intro.pdf">Intro.pdf</a>
 
-- Complete R primers: <a href="https://rstudio.cloud/learn/primers/5">Iterate</a> & <a href="https://rstudio.cloud/learn/primers/6">Functions</a>
-
 ## 27.09.
 
 <e>Tokenization & Markdown</e>
