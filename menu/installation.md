@@ -30,7 +30,11 @@ source("http://bit.ly/nlp_package_installation")
 
 If you do not know how to run this code in R please let us know asap.
 
-## 3 - Complete R Primers
+## 3 - Install necessary packages
+
+Download and install Slack, and join the course's workshop using this <a href="https://join.slack.com/t/nlp2022hs/shared_invite/zt-1gbbiemar-xmGX71AYJVOl1lngUgoakA"><b>link</b></a>.
+
+## 4 - Complete R Primers
 
 Complete the following <a href="https://rstudio.cloud/learn/primers">RStudio Primers</a>
 
