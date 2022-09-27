@@ -1,10 +1,10 @@
 ---
 title: "Tokenization"
-author: "<a href='https://dwulff.github.io/NLP_2021Autumn'>
+author: "<a href='https://dwulff.github.io/NLP_2022Autumn'>
     Natural language processing
   </a>
   <br>
-  <a href='https://dwulff.github.io/NLP_2021Autumn/menu/materials.html'>
+  <a href='https://dwulff.github.io/NLP_2022Autumn/menu/materials.html'>
     <i class='fas fa-clock' style='font-size:.9em;'></i>
   </a>&#8239; 
   <a href='https://dwulff.github.io/NLP_2021Autumn'>
@@ -12,7 +12,7 @@ author: "<a href='https://dwulff.github.io/NLP_2021Autumn'>
   </a>&#8239;
   <a href='mailto:dirk.wulff@unibas.ch'>
     <i class='fas fa-envelope' style='font-size: .9em;'></i>"
-date: "September 2021"
+date: "September 2022"
 output:
   xaringan::moon_reader:
     css: ["default", "baselrbootcamp.css"]
@@ -236,4 +236,4 @@ str_extract_all(txt, '[^[:space:]][^[.!?;]]*[.!?;]')
 
 class: middle, center
 
-<h1><a href=https://dwulff.github.io/NLP_2020Autumn/menu/materials.html>Materials</a></h1>
+<h1><a href=https://dwulff.github.io/NLP_2022Autumn/menu/materials.html>Materials</a></h1>
