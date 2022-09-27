@@ -12,9 +12,15 @@
     <textarea id="source">
 class: center, middle, inverse, title-slide
 
+.title[
 # Markdown
-### <a href='https://dwulff.github.io/NLP_2021Autumn'> Natural language processing </a> <br> <a href='https://dwulff.github.io/NLP_2021Autumn/menu/materials.html'> <i class='fas fa-clock' style='font-size:.9em;'></i> </a>  <a href='https://dwulff.github.io/NLP_2021Autumn'> <i class='fas fa-home' style='font-size:.9em;' ></i> </a>  <a href='mailto:dirk.wulff@unibas.ch'> <i class='fas fa-envelope' style='font-size: .9em;'></i>
-### September 2021
+]
+.author[
+### <a href='https://dwulff.github.io/NLP_2022Autumn'> Natural language processing </a> <br> <a href='https://dwulff.github.io/NLP_2022Autumn/menu/materials.html'> <i class='fas fa-clock' style='font-size:.9em;'></i> </a>  <a href='https://dwulff.github.io/NLP_2022Autumn'> <i class='fas fa-home' style='font-size:.9em;' ></i> </a>  <a href='mailto:dirk.wulff@unibas.ch'> <i class='fas fa-envelope' style='font-size: .9em;'></i>
+]
+.date[
+### September 2022
+]
 
 ---
 
@@ -35,7 +41,7 @@ layout: true
     &lt;/a&gt;
     &lt;a href="https://dwulff.github.io/NLP_2021Autumn/"&gt;
       &lt;font color="#7E7E7E"&gt;
-       NLP seminar | September 2021
+       NLP seminar | September 2022
       &lt;/font&gt;
     &lt;/a&gt;
     &lt;/span&gt;
@@ -1105,6 +1111,19 @@ if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
     deleted = true;
   });
 })();
+// add `data-at-shortcutkeys` attribute to <body> to resolve conflicts with JAWS
+// screen reader (see PR #262)
+(function(d) {
+  let res = {};
+  d.querySelectorAll('.remark-help-content table tr').forEach(tr => {
+    const t = tr.querySelector('td:nth-child(2)').innerText;
+    tr.querySelectorAll('td:first-child .key').forEach(key => {
+      const k = key.innerText;
+      if (/^[a-z]$/.test(k)) res[k] = t;  // must be a single letter (key)
+    });
+  });
+  d.body.setAttribute('data-at-shortcutkeys', JSON.stringify(res));
+})(document);
 (function() {
   "use strict"
   // Replace <script> tags in slides area to make them executable
