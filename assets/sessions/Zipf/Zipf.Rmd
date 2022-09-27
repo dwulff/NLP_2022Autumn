@@ -12,7 +12,7 @@ knitr::opts_chunk$set(
   warning = FALSE)
 ```
 
-<img src="https://dwulff.github.io/NLP_2021Autumn/assets/img/text_sm.png" width="100%"></img>
+<img src="https://dwulff.github.io/NLP_2022Autumn/assets/img/text_sm.png" width="100%"></img>
 
 # {.tabset}
 
