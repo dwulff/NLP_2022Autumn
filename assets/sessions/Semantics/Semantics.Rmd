@@ -8,8 +8,8 @@ editor_options:
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(
-  echo = FALSE, 
-  eval = FALSE,
+  echo = TRUE, 
+  eval = TRUE,
   message = FALSE,
   warning = FALSE)
 ```
