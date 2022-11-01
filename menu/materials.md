@@ -58,15 +58,15 @@ e {
 
 ## 01.10. - 22.11.
 
-<e>Project work & meetings</e>
+<e>Project work & meetings (ZOOM)</e>
 
 ## 22.11.
 
-<e>Markdown presentations</e>
+<e>Markdown presentations (ZOOM)</e>
 
 ## 22.11. - 13.12.
 
-<e>Project work & meetings</e>
+<e>Project work & meetings (ZOOM)</e>
 
 ## 13.12.
 
