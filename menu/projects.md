@@ -11,13 +11,15 @@ title: Student projects
 
 ## Communication w/ Slack
 
-Please use Slack for all communication pertaining to the seminar including the communication with your group members. To this end, I will create individual channels for each group and invite you join them. 
+Please use Slack for all communication pertaining to the seminar including the communication with your group members. To this end, I will create individual channels for each group and invite you join them.
 
 Please download and install Slack, and then join the workshop using this <a href="https://join.slack.com/t/nlp2022hs/shared_invite/zt-1gbbiemar-xmGX71AYJVOl1lngUgoakA"><b>link</b></a>.
 
 ## Project timeline
 
 <table cellspacing="0" cellpadding="0">
+  <col width=20%>
+  <col width=80%>
   <tr>
     <td ><b>When</b></td>
     <td ><b>What</b></td>
@@ -83,7 +85,7 @@ Each group must participate in least two 30 minute support meetings, one prior t
 
 ## Written project proposals
 
-The written project proposals should be 100 to 200 words long and outline the research question, the motivation behind the research question, and a possible data analytic approach. 
+The written project proposals should be 100 to 200 words long and outline the research question, the motivation behind the research question, and a possible data analytic approach.
 
 ## Presentations
 
