@@ -18,8 +18,6 @@ Please download and install Slack, and then join the workshop using this <a href
 ## Project timeline
 
 <table cellspacing="0" cellpadding="0">
-  <col width=20%>
-  <col width=80%>
   <tr>
     <td ><b>When</b></td>
     <td ><b>What</b></td>
