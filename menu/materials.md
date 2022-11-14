@@ -56,18 +56,26 @@ e {
 
 <e>Project proposal presentations</e>
 
-## 01.10. - 22.11.
+## 01.11. - 29.11.
 
 <e>Project work & meetings (ZOOM)</e>
 
-## 22.11.
+Sign up for 30min slots <a href="https://lettucemeet.com/l/9GLa1">here</a>. First come, first serve. Only select slots that have been selected by me but not by anybody else.
+
+Join meetings using this <a href="https://unibas.zoom.us/j/63756194466?pwd=azlxUXhPWlF4ZDQrU1VTbEFoQjFPUT09">link</a>.
+
+## 29.11.
 
 <e>Markdown presentations (ZOOM)</e>
 
-## 22.11. - 13.12.
+The meeting will be held on Zoom. Join using this <a href="https://unibas.zoom.us/j/63756194466?pwd=azlxUXhPWlF4ZDQrU1VTbEFoQjFPUT09">link</a>.
+
+## 29.11. - 20.12.
 
 <e>Project work & meetings (ZOOM)</e>
 
-## 13.12.
+Join meetings using this <a href="https://unibas.zoom.us/j/63756194466?pwd=azlxUXhPWlF4ZDQrU1VTbEFoQjFPUT09">link</a>.
+
+## 20.12.
 
 <e>Final presentations</e>
