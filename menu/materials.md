@@ -74,6 +74,8 @@ The meeting will be held on Zoom. Join using this <a href="https://unibas.zoom.u
 
 <e>Project work & meetings (ZOOM)</e>
 
+Sign up for 30min slots <a href="https://lettucemeet.com/l/DxJw1">here</a>. First come, first served. Only select slots that have been selected by me but not by anybody else.
+
 Join meetings using this <a href="https://unibas.zoom.us/j/63756194466?pwd=azlxUXhPWlF4ZDQrU1VTbEFoQjFPUT09">link</a>.
 
 ## 20.12.
